@@ -1,2 +1,9 @@
-# Variable-Name-Replacement-in-Large-input-Fliles
-Name Replacement by suffixing type character to data type (int ,float, long, pointer etc.)
+Replacing variables in large files based on scope. [2016-2017]
+
+INSTRUCTIONS:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1. First make sure you have a file "filename" that contains a C/C++ program.
+2. Compile line_store_final.c => Ex. gcc line_store_final.c											+
+3. The newly created executable takes a filename as parameter, since it operates on a file => Ex. ./a.out "filename"				+
+4. After giving the necessary inputs, look at the newly generated "symbol_table.txt" and "final.txt" which gives the necessary outputs you need.+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
